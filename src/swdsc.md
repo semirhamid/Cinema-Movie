@@ -1,0 +1,1 @@
+style={isActive => ({color: isActive ? "#EF233C" : "#919191"})}
